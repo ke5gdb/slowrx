@@ -153,9 +153,9 @@ const _ModeSpec ModeSpec[] = {
     .PorchTime    = 3e-3,
     .SeptrTime    = 6e-3,
     .PixelTime    = 0.1375e-3,
-    .LineTime     = 75-3,
-    .ImgWidth     = 160,
-    .NumLines     = 120,
+    .LineTime     = 150e-3,
+    .ImgWidth     = 320,
+    .NumLines     = 240,
     .LineHeight   = 1,
     .ColorEnc     = YUV },
 
